@@ -1,0 +1,40 @@
+{
+  "name": "veniamcum",
+  "version": "1.0.0",
+  "description": "Utilities for ethereum payments, such as bip44 addresses, and sweeping funds",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "GildaBoyle",
+  "license": "MIT",
+  "devDependencies": {
+    "async": "^2.5.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "standard": "^8.5.0"
+  },
+  "dependencies": {
+    "bitcore-lib": "^0.14.0",
+    "elliptic": "^6.4.0",
+    "ethereum-address": "0.0.4",
+    "ethereumjs-util": "^5.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CameronCrist/veniamcum.git"
+  },
+  "keywords": [
+    "ethereum",
+    "impedit",
+    "qui",
+    "payments",
+    "doloribus",
+    "faast",
+    "qui"
+  ],
+  "bugs": {
+    "url": "https://github.com/CameronCrist/veniamcum.git/issues"
+  },
+  "homepage": "https://github.com/CameronCrist/veniamcum.git"
+}
